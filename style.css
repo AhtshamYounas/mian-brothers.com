@@ -69,6 +69,8 @@ nav ul li a:hover{
     padding-right: 30%;
     line-height: 2.7rem;
     margin-bottom: 2rem;
+    padding-left: 0.8rem;
+    padding-top: 0.5rem;
 }
 .col-1 p span{
     color: #ff1d1d;
